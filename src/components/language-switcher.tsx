@@ -47,7 +47,7 @@ export function LanguageSwitcher({ locale }: { locale: string }) {
       <DropdownMenuTrigger asChild>
         <Button variant="ghost" size="sm" className="gap-1.5 text-xs font-medium text-muted-foreground hover:text-foreground">
           <Globe className="h-4 w-4" />
-          <span>{localeLabels[locale] || locale.toUpperCase()}</span>
+          <span>{localeLabels[locale as Locale] || locale.toUpperCase()}</span>
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end" className="min-w-[140px]">

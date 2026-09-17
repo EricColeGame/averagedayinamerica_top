@@ -20,11 +20,22 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const paths = [...staticPaths, ...dynamicPaths];
 
   return routing.locales.flatMap((locale) =>
-    paths.map((path) => ({
-      url: `${siteUrl}/${locale}${path === "/" ? "" : path}`,
-      lastModified: new Date(),
-      changeFrequency: path === "/" ? ("daily" as const) : ("weekly" as const),
-      priority: path === "/" ? 1 : contentTypePaths.includes(path) ? 0.8 : 0.6,
-    })),
+    paths.map((path) => {
+      let priority = 0.6;
+      if (path === "/") {
+        priority = 1.0;
+      } else if (contentTypePaths.includes(path)) {
+        priority = 0.8;
+      } else if (legalPaths.includes(path)) {
+        priority = 0.3;
+      }
+
+      return {
+        url: `${siteUrl}/${locale}${path === "/" ? "" : path}`,
+        lastModified: new Date(),
+        changeFrequency: path === "/" ? ("daily" as const) : ("weekly" as const),
+        priority,
+      };
+    }),
   );
 }
