@@ -225,11 +225,11 @@ export async function getContent(contentType: string, slugSegments: string[], la
  * 导航分组结构（用于动态 Wiki Navigation）
  */
 export interface NavGroup {
-  /** 分组标题，来自目录名转人类可读格式，如 "bosses" → "Bosses" */
+  /** 分组标题，来自目录名转人类可读格式，如 "guide" → "Guide" */
   title: string;
   /** 该分组下的文章数量 */
   count: number;
-  /** 分组 slug（即目录名，如 "bosses"） */
+  /** 分组 slug（即目录名，如 "guide"） */
   slug: string;
   /** 文章链接列表 */
   links: Array<{ label: string; href: string; badge?: string }>;
@@ -237,39 +237,69 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
+  guide: "Guide",
+  mechanics: "Mechanics",
+  combat: "Combat",
+  items: "Items",
+  maps: "Maps",
+  controls: "Controls",
   codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  tips: "Tips",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
+  guide: "ガイド",
+  mechanics: "システム",
+  combat: "戦闘",
+  items: "アイテム",
+  maps: "マップ",
+  controls: "操作方法",
   codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  tips: "攻略情報",
+};
+
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Guía",
+  mechanics: "Mecánicas",
+  combat: "Combate",
+  items: "Objetos",
+  maps: "Mapas",
+  controls: "Controles",
+  codes: "Códigos",
+  tips: "Consejos",
+};
+
+// 葡萄牙语分组标题映射
+const GROUP_TITLES_PT: Record<string, string> = {
+  guide: "Guia",
+  mechanics: "Mecânicas",
+  combat: "Combate",
+  items: "Itens",
+  maps: "Mapas",
+  controls: "Controles",
+  codes: "Códigos",
+  tips: "Dicas",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  pt: GROUP_TITLES_PT,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  es: "Resumen",
+  pt: "Visão Geral",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "mechanics", "combat", "items", "maps", "controls", "codes", "tips",
 ];
 
 /**

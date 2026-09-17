@@ -9,7 +9,15 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "combat": "Combat",
+    "items": "Items",
+    "maps": "Maps",
+    "controls": "Controls",
+    "codes": "Codes",
+    "tips": "Tips"
   },
   "home": {
     "meta": {
@@ -363,7 +371,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -399,5 +406,37 @@
     "buildGuide": "Map Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Average Day In America Guides & Walkthroughs",
+    "overviewDescription": "Essential guides, beginner walkthroughs, earning strategies, and trading mechanics for Average Day In America."
+  },
+  "mechanics": {
+    "overviewTitle": "Average Day In America Game Mechanics",
+    "overviewDescription": "Comprehensive analysis of jobs, banking systems, government ATMs, storage rules, and private server settings."
+  },
+  "combat": {
+    "overviewTitle": "Average Day In America Combat & Weapons",
+    "overviewDescription": "Explore weapon stats, combat strategies, gun rankings, armor mechanics, and PvP tactics in Average Day In America."
+  },
+  "items": {
+    "overviewTitle": "Average Day In America Items & Equipment",
+    "overviewDescription": "Complete database of spawnable gear, tools, pawnable loot, equipment stats, and resource drop rates."
+  },
+  "maps": {
+    "overviewTitle": "Average Day In America Maps & Locations",
+    "overviewDescription": "Explore town districts, key landmarks, vendor shops, police stations, and secret spawn points across Newbury."
+  },
+  "controls": {
+    "overviewTitle": "Average Day In America Controls & Keybinds",
+    "overviewDescription": "Master movement keybinds, weapon controls, combat shortcuts, and gamepad layouts for Average Day In America."
+  },
+  "codes": {
+    "overviewTitle": "Average Day In America Promo Codes",
+    "overviewDescription": "Redeem active Average Day In America codes for free cash, bonus items, and exclusive rewards."
+  },
+  "tips": {
+    "overviewTitle": "Average Day In America Tips & Tricks",
+    "overviewDescription": "Survival secrets, wealth accumulation tricks, law evasion tactics, and advanced gameplay strategies."
   }
 }
