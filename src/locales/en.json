@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Average Day In America Wiki",
+    "shortName": "Average Day In America",
+    "tagline": "Complete Guides, Weapons, Jobs & Map",
+    "description": "Explore the Average Day In America Wiki for Roblox with maps, jobs, weapons, controls, beginner tips, locations, updates, and gameplay guides for Verdania.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,22 +26,22 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Average Day In America Wiki - Codes, Map & Guide",
+      "description": "Explore the Average Day In America Wiki for Roblox with maps, jobs, weapons, controls, beginner tips, locations, updates, and gameplay guides for Verdania."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Open World Sandbox Roleplay",
+      "title": "Average Day In America Wiki",
+      "description": "Explore Verdania in an open-world Roblox sandbox where you can earn money through jobs, explore cities, drive vehicles, fight other players, buy weapons, or choose your own criminal path.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "7.7M+ Total Visits",
+        "1.9K Players Online",
+        "3.6K Peak CCU",
+        "Monthly Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
+      "secondaryCta": "Weapons & Jobs",
+      "tertiaryCta": "Verdania Map",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -342,8 +342,8 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Average Day In America?",
+      "description": "From earning your first dollar in Verdania to acquiring high-end firearms and vehicles, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Average Day In America Wiki",
+    "about": "Average Day In America Wiki is an independent fan-built guide hub covering jobs, weapons, map locations, controls, and essential game knowledge for new and veteran Roblox players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Average Day In America Wiki. Not affiliated with Big/Stuff or Roblox.",
+    "description": "Open-world Roblox sandbox roleplay set in Verdania. Work jobs, buy weapons, and explore.",
+    "playGame": "Play Average Day In America",
+    "officialDiscord": "Roblox Community",
+    "officialYoutube": "Roblox YouTube",
+    "vvBuilder": "Official Group",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Weapons Guide",
+    "bossGuides": "Jobs Guide",
+    "buildGuide": "Map Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
