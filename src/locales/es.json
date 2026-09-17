@@ -1,1 +1,442 @@
-{}
+{
+  "site": {
+    "name": "AverageDayInAmerica Wiki",
+    "shortName": "Average Day In America",
+    "tagline": "Guías completas, armas, trabajos y mapa",
+    "description": "Explora la Wiki de Average Day In America para Roblox con mapas, trabajos, armas, controles, consejos para principiantes, ubicaciones, actualizaciones y guías de juego para Verdania.",
+    "legalNotice": "Wiki no oficial hecha por fans. Creada por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "combat": "Combate",
+    "items": "Objetos",
+    "maps": "Mapas",
+    "controls": "Controles",
+    "codes": "Códigos",
+    "tips": "Consejos"
+  },
+  "home": {
+    "meta": {
+      "title": "Average Day In America Wiki - Códigos, Mapa y Guía",
+      "description": "Explora la Wiki de Average Day In America para Roblox con mapas, trabajos, armas, controles, consejos para principiantes, ubicaciones, actualizaciones y guías de juego para Verdania."
+    },
+    "hero": {
+      "eyebrow": "Juego de rol sandbox de mundo abierto",
+      "title": "Average Day In America Wiki",
+      "description": "Explora Verdania en un sandbox de mundo abierto en Roblox donde puedes ganar dinero con trabajos, explorar ciudades, conducir vehículos, luchar contra otros jugadores, comprar armas o elegir tu propio camino criminal.",
+      "stats": [
+        "Más de 7.7M de visitas",
+        "1.9K jugadores en línea",
+        "Pico de 3.6K CCU",
+        "Actualizaciones mensuales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Armas y trabajos",
+      "tertiaryCta": "Mapa de Verdania",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Comienza aquí",
+      "title": "Tu aventura en Average Day In America",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Domina los conceptos básicos de Verdania desde el primer día con nuestra guía de inicio que cubre controles, reaparición y supervivencia temprana."
+        },
+        {
+          "number": "2",
+          "title": "Cómo ganar dinero",
+          "description": "Descubre los trabajos más eficientes, entregas y rutas de dinero rápido para financiar tus armas y vehículos."
+        },
+        {
+          "number": "3",
+          "title": "Armas y combate",
+          "description": "Localiza tiendas de armas y armerías en Verdania para elegir las mejores armas de fuego y estilos cuerpo a cuerpo."
+        },
+        {
+          "number": "4",
+          "title": "Guía de robos y policía",
+          "description": "Aprende estrategias de asalto de alto riesgo para bancos y tiendas, o alístate en la policía para proteger la ciudad."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Cómo ganar dinero",
+        "Guía de armas",
+        "Robo al banco"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas desde tu primer inicio de sesión en Verdania hasta dominar armas y profesiones.",
+          "href": "/guide/average-day-in-america-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos activos",
+          "description": "Últimos códigos funcionales y estado de verificación de canje.",
+          "href": "/codes/average-day-in-america-codes"
+        },
+        {
+          "badge": "Combate",
+          "title": "Ubicación de armas y pistolas",
+          "description": "Catálogo completo de armas de fuego, estilos de combate y puntos de armería.",
+          "href": "/combat/average-day-in-america-weapons"
+        },
+        {
+          "badge": "Economía",
+          "title": "Guía de trabajos y dinero",
+          "description": "Trabajos mejor pagados y las rutas más lucrativas de Verdania.",
+          "href": "/mechanics/average-day-in-america-jobs"
+        },
+        {
+          "badge": "Popular",
+          "title": "Cómo robar el banco",
+          "description": "Tácticas de infiltración, apertura de cajas fuertes y escape de la policía.",
+          "href": "/tips/average-day-in-america-how-to-rob-bank"
+        },
+        {
+          "badge": "Mapa",
+          "title": "Mapa de Verdania y armería",
+          "description": "Puntos clave, casas de empeño, cajeros automáticos y refugios secretos.",
+          "href": "/maps/average-day-in-america-map"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Average Day In America?",
+      "paragraphs": [
+        "Average Day In America es un juego de rol sandbox de mundo abierto en Roblox ambientado en el estado ficticio de Verdania, desarrollado por Big/Stuff. Los jugadores pueden recorrer calles dinámicas, conducir vehículos, tener empleos legítimos, comprar armamento o realizar lucrativos atracos bancarios.",
+        "Ya sea que decidas mantener el orden como oficial de policía, comerciar bienes en casas de empeño o unirte a otros jugadores en intensos tiroteos urbanos, nuestra wiki te ofrece mapas detallados, guías, ubicaciones de objetos y análisis de mecánicas."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Big/Stuff"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Escenario",
+          "value": "Verdania"
+        },
+        {
+          "label": "Visitas totales",
+          "value": "7.7M+"
+        },
+        {
+          "label": "Jugadores activos",
+          "value": "1.9K+"
+        },
+        {
+          "label": "Pico de CCU",
+          "value": "3.6K"
+        },
+        {
+          "label": "Actualizaciones",
+          "value": "Mensuales"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la Wiki de Average Day In America",
+      "description": "Domina Verdania en Roblox con guías esenciales de progresión, códigos activos, catálogos de armas, rutas de trabajo y tácticas de asalto.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "AverageDayInAmerica Game Guide",
+          "description": "Resumen completo de las mecánicas sandbox de Verdania, actividades principales, reglas de supervivencia y controles.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sandbox",
+              "detail": "Exploración de mundo abierto en las ciudades de Verdania"
+            },
+            {
+              "label": "Combate",
+              "detail": "Sistemas de combate PvP con armas de fuego y cuerpo a cuerpo"
+            },
+            {
+              "label": "Economía",
+              "detail": "Flujo de efectivo dinámico mediante trabajos, comercio y atracos"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "AverageDayInAmerica Beginner Guide",
+          "description": "Guía paso a paso para nuevos ciudadanos sobre puntos de reaparición, controles básicos y uso seguro de bancos.",
+          "href": "/guide/average-day-in-america-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Aparece en Verdania y memoriza los controles esenciales de teclado y mando"
+            },
+            {
+              "label": "2",
+              "detail": "Visita el cajero automático más cercano para depositar tu dinero inicial"
+            },
+            {
+              "label": "3",
+              "detail": "Elige un empleo civil para comprar tu primera arma y herramientas útiles"
+            },
+            {
+              "label": "4",
+              "detail": "Explora tiendas de armas, casas de empeño y talleres en el mapa"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "AverageDayInAmerica Jobs and Activities",
+          "description": "Índice completo de ocupaciones legales, pagos por tarea y actividades diarias en Verdania.",
+          "href": "/mechanics/average-day-in-america-jobs",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reparto",
+              "detail": "Rutas de entrega rápida de paquetes por distritos urbanos"
+            },
+            {
+              "label": "Policía",
+              "detail": "Deberes policiales patrullando calles y arrestando sospechosos"
+            },
+            {
+              "label": "Comercio",
+              "detail": "Venta de artículos en casas de empeño y gestión de recursos"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "AverageDayInAmerica Robberies Guide",
+          "description": "Guías de asalto de alto riesgo para el Banco Central de Verdania, casinos y tiendas.",
+          "href": "/tips/average-day-in-america-how-to-rob-bank",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Consigue ganzúas, tarjetas de acceso o equipo pesado antes de iniciar el atraco"
+            },
+            {
+              "label": "2",
+              "detail": "Infiltrate en el edificio objetivo evitando la detección policial"
+            },
+            {
+              "label": "3",
+              "detail": "Fuerza la caja fuerte o bóveda para asegurar el botín máximo"
+            },
+            {
+              "label": "4",
+              "detail": "Evade a las patrullas policiales y asegura el dinero en refugios designados"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "AverageDayInAmerica Quests",
+          "description": "Resumen de misiones de historia activas, contratos de PNJs y tareas especiales en el mundo.",
+          "href": "/guide/average-day-in-america-tutorial",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tutorial",
+              "detail": "Lista de tareas de bienvenida que introduce la infraestructura urbana"
+            },
+            {
+              "label": "Recompensas",
+              "detail": "Contratos de captura con alta recompensa para criminales buscados"
+            },
+            {
+              "label": "Archivadas",
+              "detail": "Registro de misiones archivadas y eventos de temporada"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "AverageDayInAmerica Updates",
+          "description": "Hoja de ruta de desarrollo, notas de parches, balance policial y novedades del Yard Dealer.",
+          "href": "/mechanics/average-day-in-america-banking",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Parche",
+              "detail": "Ajustes de balance de policía y mejoras en patrullas"
+            },
+            {
+              "label": "Vendedor",
+              "detail": "Novedades en el mercado de vehículos y equipo de Yard Dealer"
+            },
+            {
+              "label": "Futuro",
+              "detail": "Próximas armas, expansiones de mapa y mejoras mecánicas"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "AverageDayInAmerica Gameplay Clips",
+          "description": "Momentos destacados de combate, persecuciones en vehículos y atracos intensos de la comunidad.",
+          "href": "/combat/average-day-in-america-weapons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tiroteos",
+              "detail": "Batallas con armas avanzadas y defensa de armerías"
+            },
+            {
+              "label": "Persecuciones",
+              "detail": "Persecuciones policiales a gran velocidad en carreteras"
+            },
+            {
+              "label": "Atracos",
+              "detail": "Infiltraciones perfectas en bóvedas y escapes épicos"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "AverageDayInAmerica Community",
+          "description": "Conéctate con otros ciudadanos, forma tripulaciones para robos y participa en debates comunitarios.",
+          "href": "/guide/average-day-in-america-how-to-make-money",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Escuadrones",
+              "detail": "Únete a socios confiables para atracos de alto nivel"
+            },
+            {
+              "label": "Comercio",
+              "detail": "Intercambio de equipamiento y precios de referencia"
+            },
+            {
+              "label": "Opinión",
+              "detail": "Comparte estrategias y reporta errores a Big/Stuff"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a preguntas comunes sobre Average Day In America en Roblox.",
+      "items": [
+        {
+          "question": "¿Qué es Average Day In America?",
+          "answer": "Average Day In America es un juego de rol sandbox de mundo abierto en Roblox desarrollado por Big/Stuff. Ambientado en Verdania, permite ganar dinero con diversos trabajos, adquirir armas, conducir autos, participar en atracos o hacer cumplir la ley como policía."
+        },
+        {
+          "question": "¿Cómo ganar dinero rápido en Average Day In America?",
+          "answer": "Los principiantes pueden empezar con entregas y trabajos civiles en Verdania, para luego pasar a atracos bancarios de alto rendimiento o capturar recompensas a medida que mejoran su equipo."
+        },
+        {
+          "question": "¿Dónde puedo comprar armas en Average Day In America?",
+          "answer": "Las armas se compran en armerías autorizadas, traficantes clandestinos y almacenes distribuidos por Verdania. Deposita tu dinero en cajeros para no perderlo al ser derrotado."
+        },
+        {
+          "question": "¿Hay códigos promocionales activos para Average Day In America?",
+          "answer": "Actualmente no hay códigos promocionales activos lanzados por Big/Stuff. Consulta nuestra sección de códigos con frecuencia para novedades verificadas."
+        },
+        {
+          "question": "¿Puedo jugar Average Day In America con mando o consola?",
+          "answer": "Sí, Average Day In America es compatible con teclado y ratón en PC, así como con mandos de Xbox y consolas con asignación completa de botones."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Average Day In America?",
+      "description": "Desde ganar tu primer dólar en Verdania hasta conseguir armamento y vehículos de élite, nuestra wiki comunitaria te ofrece guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas recomendadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Average Day In America Wiki",
+    "about": "Average Day In America Wiki es un centro de guías independiente creado por fans que cubre trabajos, armas, mapas, controles y conocimientos esenciales para jugadores novatos y veteranos de Roblox.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Average Day In America Wiki. No afiliado con Big/Stuff ni Roblox.",
+    "description": "Juego de rol sandbox de mundo abierto en Roblox ambientado en Verdania. Trabaja, compra armas y explora.",
+    "playGame": "Jugar Average Day In America",
+    "officialDiscord": "Comunidad de Roblox",
+    "officialYoutube": "YouTube de Roblox",
+    "vvBuilder": "Grupo oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guía de armas",
+    "bossGuides": "Guía de trabajos",
+    "buildGuide": "Guía del mapa",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías y tutoriales de Average Day In America",
+    "overviewDescription": "Guías esenciales, tutoriales de inicio, estrategias de ganancias y mecánicas de comercio para Average Day In America."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego de Average Day In America",
+    "overviewDescription": "Análisis detallado de empleos, sistemas bancarios, cajeros automáticos, reglas de almacenamiento y servidores privados."
+  },
+  "combat": {
+    "overviewTitle": "Combate y armas de Average Day In America",
+    "overviewDescription": "Estadísticas de armamento, tácticas de combate, clasificación de armas de fuego, blindaje y estrategias PvP en Average Day In America."
+  },
+  "items": {
+    "overviewTitle": "Objetos y equipo de Average Day In America",
+    "overviewDescription": "Base de datos completa de herramientas, botín vendible, estadísticas de equipamiento y tasas de obtención de recursos."
+  },
+  "maps": {
+    "overviewTitle": "Mapas y ubicaciones de Average Day In America",
+    "overviewDescription": "Explora distritos urbanos, puntos de referencia, tiendas, estaciones de policía y lugares de aparición secretos en Newbury."
+  },
+  "controls": {
+    "overviewTitle": "Controles y teclas de Average Day In America",
+    "overviewDescription": "Domina los comandos de movimiento, manejo de armas, atajos de combate y configuraciones de mando para Average Day In America."
+  },
+  "codes": {
+    "overviewTitle": "Códigos promocionales de Average Day In America",
+    "overviewDescription": "Canjea códigos activos de Average Day In America para obtener dinero gratis, objetos especiales y recompensas exclusivas."
+  },
+  "tips": {
+    "overviewTitle": "Consejos y trucos de Average Day In America",
+    "overviewDescription": "Secretos de supervivencia, métodos para acumular riqueza, tácticas para eludir la ley y estrategias avanzadas."
+  }
+}

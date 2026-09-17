@@ -1,1 +1,442 @@
-{}
+{
+  "site": {
+    "name": "AverageDayInAmerica Wiki",
+    "shortName": "Average Day In America",
+    "tagline": "完全攻略ガイド、武器、職業＆マップ情報",
+    "description": "Robloxの人気ゲーム「Average Day In America」の攻略Wikiです。Verdaniaのマップ、職業、武器、操作方法、初心者向けヒント、最新アップデート情報をお届けします。",
+    "legalNotice": "非公式ファンWikiです。プレイヤーによって、プレイヤーのために運営されています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切り替え",
+    "guide": "ガイド",
+    "mechanics": "システム",
+    "combat": "戦闘",
+    "items": "アイテム",
+    "maps": "マップ",
+    "controls": "操作方法",
+    "codes": "コード",
+    "tips": "ヒント"
+  },
+  "home": {
+    "meta": {
+      "title": "Average Day In America Wiki - コード・マップ・攻略ガイド",
+      "description": "Roblox「Average Day In America」の公式公認ガイドWiki。マップ、職業、武器、操作方法、初心者ガイド、最新アップデートを網羅。"
+    },
+    "hero": {
+      "eyebrow": "オープンワールド・サンドボックス・ロールプレイ",
+      "title": "Average Day In America Wiki",
+      "description": "架空の州Verdaniaを舞台にしたRobloxのサンドボックスゲーム。仕事でお金を稼ぎ、車を運転し、武器を揃えてPvPに挑むか、犯罪の道を歩むかはあなた次第です。",
+      "stats": [
+        "総訪問数 7.7M+",
+        "オンライン 1.9K",
+        "最高同時接続 3.6K",
+        "毎月アップデート"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "武器＆職業",
+      "tertiaryCta": "Verdaniaマップ",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "全ガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "スタートガイド",
+      "title": "Average Day In Americaの旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "スポーン地点、基本操作、Verdaniaでの序盤サバイバルテクニックを分かりやすく解説。"
+        },
+        {
+          "number": "2",
+          "title": "効率的な金策",
+          "description": "武器や車両の購入資金を素早く貯めるための、高給ジョブや効率的な配達ルート。"
+        },
+        {
+          "number": "3",
+          "title": "武器＆戦闘システム",
+          "description": "各地の銃砲店や武器庫の場所、強力な銃火器と近接格闘スタイルの特徴。"
+        },
+        {
+          "number": "4",
+          "title": "強盗＆警察ガイド",
+          "description": "銀行や店舗でのハイリスク強盗手順と、警察官として街の治安を守る方法。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "トレンド記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "お金稼ぎの方法",
+        "武器一覧",
+        "銀行強盗のやり方"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者完全ガイド",
+          "description": "初ログインから武器選び、職業選びまでの必須ステップを網羅。",
+          "href": "/guide/average-day-in-america-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "有効な引き換えコード",
+          "description": "現在利用可能な最新コードと引き換え確認状況のまとめ。",
+          "href": "/codes/average-day-in-america-codes"
+        },
+        {
+          "badge": "戦闘",
+          "title": "武器・銃の入手場所",
+          "description": "銃火器カタログ、近接格闘、武器庫スポーン地点の詳細解説。",
+          "href": "/combat/average-day-in-america-weapons"
+        },
+        {
+          "badge": "経済",
+          "title": "職業＆金策ガイド",
+          "description": "Verdaniaで最も効率よく稼げる職業とおすすめルート。",
+          "href": "/mechanics/average-day-in-america-jobs"
+        },
+        {
+          "badge": "注目",
+          "title": "銀行強盗の手順",
+          "description": "金庫の破り方、潜入のコツ、警察の追跡を逃れる脱出ルート。",
+          "href": "/tips/average-day-in-america-how-to-rob-bank"
+        },
+        {
+          "badge": "マップ",
+          "title": "Verdaniaマップ＆施設",
+          "description": "主要エリア、質屋、ATMの設置場所、隠れ家の詳細マップ。",
+          "href": "/maps/average-day-in-america-map"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Average Day In Americaとは？",
+      "paragraphs": [
+        "Average Day In Americaは、Big/Stuffが開発したRobloxのオープンワールド・サンドボックス・ロールプレイゲームです。架空の州Verdaniaを舞台に、プレイヤーは合法的な仕事に就き、武器を購入し、車を走らせ、時には銀行や店舗を襲撃して大金を稼ぐことができます。",
+        "警察官として秩序を守るか、質屋でアイテムを売買して商売に励むか、ストリートでの白熱したPvP銃撃戦に身を投じるか、自由自在なプレイスタイルが楽しめます。当Wikiではマップ、アイテム位置、メカニクスを徹底的に解説しています。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Big/Stuff"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "舞台",
+          "value": "Verdania"
+        },
+        {
+          "label": "総アクセス数",
+          "value": "7.7M+"
+        },
+        {
+          "label": "アクティブ人数",
+          "value": "1.9K+"
+        },
+        {
+          "label": "ピーク同接",
+          "value": "3.6K"
+        },
+        {
+          "label": "更新頻度",
+          "value": "毎月"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Average Day In America Wikiを探索",
+      "description": "RobloxのVerdaniaを制覇するための進行ガイド、コード、武器カタログ、職業ルート、強盗テクニックをチェック。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "AverageDayInAmerica Game Guide",
+          "description": "Verdaniaのサンドボックスシステム、基本アクティビティ、生存ルール、操作の全体概要。",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "サンドボックス",
+              "detail": "Verdania各都市の広大なオープンワールド探索"
+            },
+            {
+              "label": "戦闘",
+              "detail": "リアルタイムシューティングと近接格闘システム"
+            },
+            {
+              "label": "経済",
+              "detail": "職業、アイテム取引、強盗による動的な資金獲得"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "AverageDayInAmerica Beginner Guide",
+          "description": "初参加プレイヤー向けのスムーズな立ち回り、基本操作、銀行活用のステップ解説。",
+          "href": "/guide/average-day-in-america-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Verdaniaにスポーンし、キーボードやコントローラーのキー配置を覚える"
+            },
+            {
+              "label": "2",
+              "detail": "最寄りのATMに向かい、初期所持金を安全に預金する"
+            },
+            {
+              "label": "3",
+              "detail": "一般市民の仕事を選び、最初の武器や便利グッズを購入する資金を稼ぐ"
+            },
+            {
+              "label": "4",
+              "detail": "銃砲店、質屋、ガレージなどマップ上の重要スポットを巡る"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "AverageDayInAmerica Jobs and Activities",
+          "description": "合法的な職業一覧、タスク報酬、Verdania市民の日課アクティビティ一覧。",
+          "href": "/mechanics/average-day-in-america-jobs",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "配達",
+              "detail": "市街地を巡る迅速な小包配達でお手軽に資金調達"
+            },
+            {
+              "label": "警察",
+              "detail": "パトロールを行い指名手配犯を逮捕する法執行官の任務"
+            },
+            {
+              "label": "取引",
+              "detail": "質屋での戦利品売却と資源管理"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "AverageDayInAmerica Robberies Guide",
+          "description": "Verdania中央銀行やカジノ金庫、コンビニを標的にしたハイリスク強盗攻略。",
+          "href": "/tips/average-day-in-america-how-to-rob-bank",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "犯行前にロックピックやキーカード、重火器を調達する"
+            },
+            {
+              "label": "2",
+              "detail": "警察に見つからないようターゲット施設へ潜入する"
+            },
+            {
+              "label": "3",
+              "detail": "金庫のロックを解除して最大限の現金バッグを回収する"
+            },
+            {
+              "label": "4",
+              "detail": "警察の追跡を振り切り、隠れ家で安全に資金を確保する"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "AverageDayInAmerica Quests",
+          "description": "ストーリータスク、NPC依頼、ゲーム内で受けられる特別ミッションの概要。",
+          "href": "/guide/average-day-in-america-tutorial",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "チュートリアル",
+              "detail": "都市のインフラや基本ルールを学ぶ入門クエスト"
+            },
+            {
+              "label": "賞金首",
+              "detail": "逃走中の犯罪者を捕獲する高額賞金コントラクト"
+            },
+            {
+              "label": "過去イベント",
+              "detail": "過去の限定ミッションやシーズンイベントの記録"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "AverageDayInAmerica Updates",
+          "description": "開発ロードマップ、パッチノート、警察弱体化などの調整履歴、Yard Dealer機能。",
+          "href": "/mechanics/average-day-in-america-banking",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "パッチ",
+              "detail": "警察のバランス調整と仕様変更のポイント"
+            },
+            {
+              "label": "ディーラー",
+              "detail": "Yard Dealerにおける車両・装備市場の拡張"
+            },
+            {
+              "label": "予定",
+              "detail": "今後実装予定の新武器、マップ拡張、ゲームプレイ調整"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "AverageDayInAmerica Gameplay Clips",
+          "description": "プレイヤーによる白熱の銃撃戦クリップ、カーチェイス、見事な強盗シーン集。",
+          "href": "/combat/average-day-in-america-weapons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "銃撃戦",
+              "detail": "ハイレベルな射撃戦と武器庫防衛の好プレー"
+            },
+            {
+              "label": "チェイス",
+              "detail": "幹線道路を舞台にした白熱のパトカー追走劇"
+            },
+            {
+              "label": "強盗",
+              "detail": "鮮やかな金庫破りとギリギリの脱出劇"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "AverageDayInAmerica Community",
+          "description": "他の市民とつながり、強盗仲間を見つけ、攻略情報を語り合えるコミュニティ。",
+          "href": "/guide/average-day-in-america-how-to-make-money",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "チーム",
+              "detail": "大規模な強盗に挑む信頼できる仲間を募集"
+            },
+            {
+              "label": "取引",
+              "detail": "アイテム交換や適正価格の情報交換"
+            },
+            {
+              "label": "フィードバック",
+              "detail": "ゲームの感想共有や開発チームへのバグ報告"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Robloxの「Average Day In America」に関する疑問に素早くお答えします。",
+      "items": [
+        {
+          "question": "Average Day In Americaとはどのようなゲームですか？",
+          "answer": "Big/Stuffが開発したRobloxのオープンワールド・ロールプレイゲームです。Verdaniaの街で様々な仕事に就いてお金を稼ぎ、武器や車を購入したり、強盗を働いたり、警察官として法を守ったりと自由に行動できます。"
+        },
+        {
+          "question": "効率よくお金を稼ぐにはどうすればいいですか？",
+          "answer": "初心者はまず配達などの安全な市民ジョブでお金を貯め、装備が整ったら高額な銀行強盗や賞金首の確保に挑戦するのがおすすめです。"
+        },
+        {
+          "question": "武器はどこで購入できますか？",
+          "answer": "街中に点在する銃砲店、闇商人、武器庫で購入できます。倒された際に所持金を落とさないよう、こまめにATMに預金しておきましょう。"
+        },
+        {
+          "question": "現在使えるプロモーションコードはありますか？",
+          "answer": "現在、開発元Big/Stuffから公式に配布されている有効なコードはありません。新しいコードが公開され次第、当Wikiのコード一覧で更新します。"
+        },
+        {
+          "question": "コントローラーやゲームパッドで遊ぶことはできますか？",
+          "answer": "はい、PCのキーボード＆マウス操作だけでなく、Xbox等のコントローラーにも対応しており、各種ボタン配置が用意されています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Average Day In Americaを極める準備はできましたか？",
+      "description": "Verdaniaでの最初の一歩から高級武器や名車の入手まで、最新の完全攻略情報を無料でお届けします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxでプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "コード一覧を見る",
+    "playOnRoblox": "Robloxで遊ぶ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "おすすめ記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在準備中のガイドです。公開をお待ちください！"
+  },
+  "footer": {
+    "aboutTitle": "Average Day In America Wiki",
+    "about": "Average Day In America Wikiは、Robloxのプレイヤー向けに職業、武器、マップ、操作方法、役立つ攻略情報を網羅した独立系ファンサイトです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "規約・免責事項",
+    "copyright": "2026 Average Day In America Wiki. Big/StuffおよびRobloxとは提携していません。",
+    "description": "Verdaniaを舞台にしたRobloxのオープンワールド・サンドボックス。仕事、武器、探索を楽しもう。",
+    "playGame": "Average Day In Americaをプレイ",
+    "officialDiscord": "Robloxコミュニティ",
+    "officialYoutube": "Roblox公式YouTube",
+    "vvBuilder": "公式グループ",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "武器ガイド",
+    "bossGuides": "職業ガイド",
+    "buildGuide": "マップガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Average Day In America 攻略ガイド＆手順",
+    "overviewDescription": "初心者向けチュートリアル、効率的な金策、取引システムなど必須の攻略情報を掲載。"
+  },
+  "mechanics": {
+    "overviewTitle": "Average Day In America ゲームシステム",
+    "overviewDescription": "職業の仕組み、銀行システム、ATMの利用法、保管庫ルール、プライベートサーバー設定を解説。"
+  },
+  "combat": {
+    "overviewTitle": "Average Day In America 戦闘＆武器解説",
+    "overviewDescription": "武器ステータス、銃火器ランキング、近接格闘、防具の仕様、PvPの立ち回りガイド。"
+  },
+  "items": {
+    "overviewTitle": "Average Day In America アイテム＆装備",
+    "overviewDescription": "スポーンアイテム、各種ツール、質屋売却可能品、装備ステータス、ドロップ率データベース。"
+  },
+  "maps": {
+    "overviewTitle": "Average Day In America マップ＆施設情報",
+    "overviewDescription": "市街地、ランドマーク、ショップ、警察署、Newbury各地の隠れスポットを完全案内。"
+  },
+  "controls": {
+    "overviewTitle": "Average Day In America 操作方法＆キー配置",
+    "overviewDescription": "移動コマンド、射撃操作、戦闘ショートカット、ゲームパッド操作設定の完全まとめ。"
+  },
+  "codes": {
+    "overviewTitle": "Average Day In America プロモーションコード",
+    "overviewDescription": "ゲーム内現金や限定アイテムが入手できる有効な最新コードと引き換え方法。"
+  },
+  "tips": {
+    "overviewTitle": "Average Day In America お役立ちヒント＆小技",
+    "overviewDescription": "生き残りの秘訣、効率的な資産形成、警察の追跡をかわすテクニック、上級者向け戦略。"
+  }
+}
